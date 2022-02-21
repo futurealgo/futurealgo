@@ -1,6 +1,4 @@
-Project for Test Creation
+How To Run Project :
 
-<!---
-futurealgo/futurealgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1) First We need to setup MySql : https://ladvien.com/data-analytics-mysql-localhost-setup/
+2) Then Need to run Projects main class annotated with @SpringBootApplication
